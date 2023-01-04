@@ -54,3 +54,16 @@ body{
     height: 35px;
 
 }
+.heading-primary{
+    columns: rgb(11, 139, 224);
+    text-transform: uppercase;
+
+}
+
+.heading-primary-main{
+
+}
+
+.heading-primary-sub{
+
+}
