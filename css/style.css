@@ -54,16 +54,33 @@ body{
     height: 35px;
 
 }
+
+.text-box {
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    background-color: brown;
+
+}
 .heading-primary{
-    columns: rgb(11, 139, 224);
+    color: rgb(47, 130, 185);
     text-transform: uppercase;
 
 }
 
 .heading-primary-main{
+    display: block;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing:  35px;
 
 }
 
 .heading-primary-sub{
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 25px;
 
 }
